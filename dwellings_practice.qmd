@@ -5,6 +5,7 @@ execute:
   echo: true
   warning: false
   message: false
+jupyter: python-ds
 ---
 
 ## Setup
